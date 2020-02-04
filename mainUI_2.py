@@ -162,7 +162,7 @@ class MainWindow_2(object):
 
     def onVisitWeb(self):
         import webbrowser
-        webbrowser.open("https://github.com/Zaeworks/StudentsManager")
+        webbrowser.open("https://github.com/galaxy24/erpsystem")
 
     def onSaveAs(self):
         path, ok = QFileDialog.getSaveFileName(
